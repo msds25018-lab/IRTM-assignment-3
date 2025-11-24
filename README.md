@@ -11,3 +11,10 @@ spacy imported, terminal code to show how isntall
 the english model for spacy error, show terminal code to how to install
 
 tokenization performed
+
+added nomralization for lowercase
+
+stop word removal (nltk imported with 'stopword')
+
+lemmatization-stemming (porter stemmer used for steming)
+
