@@ -2,19 +2,11 @@
 assignment-3 of info 
 
 
-UF8 encoding saved before preprocessing the articles csv
+Please perform UF8 encoding and save the articles csv before running codeif an error occurs related to the dataset
 
-'strong>' was removed
+Use the command below in the terminal to install the neccessary packages:
 
-spacy imported, terminal code to show how isntall
+pip install pandas spacy nltk numpy pympler
+python -m spacy download en_core_web_sm
 
-the english model for spacy error, show terminal code to how to install
-
-tokenization performed
-
-added nomralization for lowercase
-
-stop word removal (nltk imported with 'stopword')
-
-lemmatization-stemming (porter stemmer used for steming)
 
